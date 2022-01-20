@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityAndLifeCycleKt</string>
+    <string name="send_implicit_intent">send Implicit Intent</string>
+    <string name="send_explicit_intent">Send Explicit Intent</string>
+    <string name="send_simple_toast">Send Simple Toast</string>
+    <string name="send_this_to_message_app">send This TO Message app</string>
+</resources>
